@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="flip_kart_pro.flip_kart_pro.FlipKartProject">
+        <methods>
+          <include name="configAm"/>
+          <include name="test_runner"/>
+          <include name="EnterTheUserDetails"/>
+          <include name="configAt"/>
+          <include name="Select_Prodect"/>
+          <include name="Open_theBrowser"/>
+          <include name="configAc"/>
+          <include name="configAs"/>
+          <include name="connect_to_Database"/>
+        </methods>
+      </class> <!-- flip_kart_pro.flip_kart_pro.FlipKartProject -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

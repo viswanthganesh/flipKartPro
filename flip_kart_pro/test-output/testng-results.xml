@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29548" started-at="2021-03-13T03:15:05Z" finished-at="2021-03-13T03:15:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29548" started-at="2021-03-13T03:15:05Z" finished-at="2021-03-13T03:15:35Z">
+      <class name="flip_kart_pro.flip_kart_pro.FlipKartProject">
+        <test-method status="PASS" signature="connect_to_Database()[pri:0, instance:flip_kart_pro.flip_kart_pro.FlipKartProject@4dfa3a9d]" name="connect_to_Database" is-config="true" duration-ms="15" started-at="2021-03-13T08:45:05Z" finished-at="2021-03-13T08:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connect_to_Database -->
+        <test-method status="PASS" signature="test_runner()[pri:0, instance:flip_kart_pro.flip_kart_pro.FlipKartProject@4dfa3a9d]" name="test_runner" is-config="true" duration-ms="0" started-at="2021-03-13T08:45:05Z" finished-at="2021-03-13T08:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_runner -->
+        <test-method status="PASS" signature="Open_theBrowser()[pri:0, instance:flip_kart_pro.flip_kart_pro.FlipKartProject@4dfa3a9d]" name="Open_theBrowser" is-config="true" duration-ms="17132" started-at="2021-03-13T08:45:05Z" finished-at="2021-03-13T08:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_theBrowser -->
+        <test-method status="PASS" signature="Select_Prodect()[pri:0, instance:flip_kart_pro.flip_kart_pro.FlipKartProject@4dfa3a9d]" name="Select_Prodect" duration-ms="10276" started-at="2021-03-13T08:45:23Z" finished-at="2021-03-13T08:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_Prodect -->
+        <test-method status="PASS" signature="EnterTheUserDetails()[pri:0, instance:flip_kart_pro.flip_kart_pro.FlipKartProject@4dfa3a9d]" name="EnterTheUserDetails" is-config="true" duration-ms="0" started-at="2021-03-13T08:45:23Z" finished-at="2021-03-13T08:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterTheUserDetails -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:flip_kart_pro.flip_kart_pro.FlipKartProject@4dfa3a9d]" name="configAm" is-config="true" duration-ms="1" started-at="2021-03-13T08:45:33Z" finished-at="2021-03-13T08:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:flip_kart_pro.flip_kart_pro.FlipKartProject@4dfa3a9d]" name="configAc" is-config="true" duration-ms="2104" started-at="2021-03-13T08:45:33Z" finished-at="2021-03-13T08:45:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+        <test-method status="PASS" signature="configAt()[pri:0, instance:flip_kart_pro.flip_kart_pro.FlipKartProject@4dfa3a9d]" name="configAt" is-config="true" duration-ms="0" started-at="2021-03-13T08:45:35Z" finished-at="2021-03-13T08:45:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAt -->
+        <test-method status="PASS" signature="configAs()[pri:0, instance:flip_kart_pro.flip_kart_pro.FlipKartProject@4dfa3a9d]" name="configAs" is-config="true" duration-ms="1" started-at="2021-03-13T08:45:35Z" finished-at="2021-03-13T08:45:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAs -->
+      </class> <!-- flip_kart_pro.flip_kart_pro.FlipKartProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
